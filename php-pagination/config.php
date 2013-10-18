@@ -1,5 +1,4 @@
 <?php
-
 @error_reporting(0);
 
 $ARR_CFGS["db_host"] = 'localhost';
